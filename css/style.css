@@ -1,6 +1,9 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
+.wrapper h1 { 
+  font-family: Baskerville, "Baskerville Old Face"; 
+  color: blue;
+}
 
 /*////////// Global Styles //////////*/
 
@@ -15,6 +18,13 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+.wrapper#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400%;
 }
 
 /* Write all remaining styles here */
