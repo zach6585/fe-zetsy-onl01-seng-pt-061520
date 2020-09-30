@@ -1,9 +1,10 @@
 /*////////////// Fonts //////////////*/
 
-.wrapper h1 { 
-  font-family: Baskerville, "Baskerville Old Face"; 
-  color: blue;
+@font-face {
+  font-family: "Baskerville";
+  font-weight: 
 }
+
 
 /*////////// Global Styles //////////*/
 
